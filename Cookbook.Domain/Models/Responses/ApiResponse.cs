@@ -1,4 +1,4 @@
-﻿namespace Cookbook.Domain.Models.Communication;
+﻿namespace Cookbook.Domain.Models.Communication.Responses;
 public class ApiResponse
 {
     public bool Success { get; set; }
